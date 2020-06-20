@@ -4,9 +4,10 @@
 
 </div>
 
+
 <div align="center">
 
-## Discussion into the contents of this repository can be found at this article 
+## [Click here]() for the article behind the contents of this repository
 
 </div>
 
