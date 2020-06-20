@@ -1,6 +1,6 @@
 <div align="center">
 
-# Core components and tips for a datscience pipeline
+# Core components and tips to utilize for a production level datascience workflow
 
 </div>
 
